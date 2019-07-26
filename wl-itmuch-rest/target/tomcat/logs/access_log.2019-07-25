@@ -1,0 +1,2 @@
+127.0.0.1 - - [25/Jul/2019:14:04:28 +0800] "GET /rest/item/desc/536563 HTTP/1.1" 200 48 http-bio-8081-exec-1 11348
+127.0.0.1 - - [25/Jul/2019:14:05:19 +0800] "GET /rest/item/param/536563 HTTP/1.1" 200 64 http-bio-8081-exec-2 2498

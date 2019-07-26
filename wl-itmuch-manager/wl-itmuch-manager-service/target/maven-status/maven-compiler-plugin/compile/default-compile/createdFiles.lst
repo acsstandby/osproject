@@ -1,0 +1,6 @@
+com\osyunge2\service\ItemCatServiceImpl.class
+com\osyunge2\service\CategoryServiceImpl.class
+com\osyunge2\service\PicServiceImpl.class
+com\osyunge2\service\ContentServiceImpl.class
+com\osyunge2\service\ItemParamServiceImpl.class
+com\osyunge2\service\ItemServiceImpl.class

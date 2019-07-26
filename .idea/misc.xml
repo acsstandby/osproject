@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/wl-itmuch-manager/wl-itmuch-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/wl-itmuch-portal" />
+    <file type="web" url="file://$PROJECT_DIR$/wl-itmuch-rest" />
+    <file type="web" url="file://$PROJECT_DIR$/wl-itmuch-search" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/wl-itmuch-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/wl-itmuch-common/pom.xml" />
+        <option value="$PROJECT_DIR$/wl-itmuch-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/wl-itmuch-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/wl-itmuch-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/wl-itmuch-search/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="&quot;http://xmlns.jcp.org/xml/ns/javaee&quot;" location="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
