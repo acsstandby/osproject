@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e7f2929-c96a-46ed-b46f-dcdb0dd42887" name="Default Changelist" comment="" />
+    <list default="true" id="0e7f2929-c96a-46ed-b46f-dcdb0dd42887" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/wl-itmuch-parent/target/" />
     <ignored path="$PROJECT_DIR$/wl-itmuch-common/target/" />
     <ignored path="$PROJECT_DIR$/wl-itmuch-manager/target/" />
@@ -33,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/wl-itmuch-rest/src/main/java/com/osyunge2/rest/controller/ItemController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="481">
-              <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+              <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/wl-itmuch-parent/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="201">
-              <caret line="191" column="29" lean-forward="true" selection-start-line="191" selection-start-column="29" selection-end-line="191" selection-end-column="29" />
+              <caret line="191" column="29" selection-start-line="191" selection-start-column="29" selection-end-line="191" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -464,7 +466,7 @@
       <workItem from="1563928397214" duration="2283000" />
       <workItem from="1563932902586" duration="18869000" />
       <workItem from="1564017371053" duration="7813000" />
-      <workItem from="1564122685829" duration="4301000" />
+      <workItem from="1564122685829" duration="5007000" />
     </task>
     <task id="LOCAL-00001" summary="项目提交">
       <created>1564125900874</created>
@@ -509,7 +511,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188803000" />
+    <option name="totallyTimeSpent" value="189509000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -923,7 +925,7 @@
     <entry file="file://$PROJECT_DIR$/wl-itmuch-rest/src/main/java/com/osyunge2/rest/controller/ItemController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
-          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -936,7 +938,7 @@
     <entry file="file://$PROJECT_DIR$/wl-itmuch-parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
-          <caret line="191" column="29" lean-forward="true" selection-start-line="191" selection-start-column="29" selection-end-line="191" selection-end-column="29" />
+          <caret line="191" column="29" selection-start-line="191" selection-start-column="29" selection-end-line="191" selection-end-column="29" />
         </state>
       </provider>
     </entry>
