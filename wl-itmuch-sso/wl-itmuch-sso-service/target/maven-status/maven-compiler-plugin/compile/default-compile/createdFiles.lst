@@ -1,0 +1,4 @@
+com\osyunge2\sso\service\jedis\JedisClientSingle.class
+com\osyunge2\sso\service\impl\UserServiceImpl.class
+com\osyunge2\sso\service\jedis\JedisClient.class
+com\osyunge2\sso\service\UserService.class

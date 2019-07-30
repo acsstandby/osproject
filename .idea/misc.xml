@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/wl-itmuch-portal" />
     <file type="web" url="file://$PROJECT_DIR$/wl-itmuch-rest" />
     <file type="web" url="file://$PROJECT_DIR$/wl-itmuch-search" />
+    <file type="web" url="file://$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso-controller" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -18,6 +19,7 @@
         <option value="$PROJECT_DIR$/wl-itmuch-rest/pom.xml" />
         <option value="$PROJECT_DIR$/wl-itmuch-portal/pom.xml" />
         <option value="$PROJECT_DIR$/wl-itmuch-search/pom.xml" />
+        <option value="$PROJECT_DIR$/wl-itmuch-sso/pom.xml" />
       </list>
     </option>
   </component>

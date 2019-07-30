@@ -12,6 +12,11 @@
     <file url="file://$PROJECT_DIR$/wl-itmuch-portal" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wl-itmuch-rest" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wl-itmuch-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wl-itmuch-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso-controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso-service" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

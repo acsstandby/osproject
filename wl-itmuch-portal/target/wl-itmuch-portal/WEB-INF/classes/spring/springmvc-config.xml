@@ -14,9 +14,9 @@
     <context:component-scan base-package="com.osyunge2.portal.controller" />
     <!--配置注解驱动 启用注解其实就是开启注解-->
     <mvc:annotation-driven />
-    <context:property-placeholder location="classpath:resource.properties" ></context:property-placeholder>
+    <context:property-placeholder location="classpath:resource.properties" />
 
-    <mvc:default-servlet-handler></mvc:default-servlet-handler>
+    <mvc:default-servlet-handler/>
 
     <!--配置视图解析器-->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">

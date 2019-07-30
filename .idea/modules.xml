@@ -14,6 +14,11 @@
       <module fileurl="file://$PROJECT_DIR$/wl-itmuch-portal/wl-itmuch-portal.iml" filepath="$PROJECT_DIR$/wl-itmuch-portal/wl-itmuch-portal.iml" />
       <module fileurl="file://$PROJECT_DIR$/wl-itmuch-rest/wl-itmuch-rest.iml" filepath="$PROJECT_DIR$/wl-itmuch-rest/wl-itmuch-rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/wl-itmuch-search/wl-itmuch-search.iml" filepath="$PROJECT_DIR$/wl-itmuch-search/wl-itmuch-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso.iml" filepath="$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso-controller/wl-itmuch-sso-controller.iml" filepath="$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso-controller/wl-itmuch-sso-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso-dao/wl-itmuch-sso-dao.iml" filepath="$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso-dao/wl-itmuch-sso-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso-pojo/wl-itmuch-sso-pojo.iml" filepath="$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso-pojo/wl-itmuch-sso-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso-service/wl-itmuch-sso-service.iml" filepath="$PROJECT_DIR$/wl-itmuch-sso/wl-itmuch-sso-service/wl-itmuch-sso-service.iml" />
     </modules>
   </component>
 </project>

@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.osyunge2.fastdfs.test.TestFastDFS
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 20.369 sec <<< FAILURE!
-testUploadFile(com.osyunge2.fastdfs.test.TestFastDFS)  Time elapsed: 10.148 sec  <<< ERROR!
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 20.406 sec <<< FAILURE!
+testUploadFile(com.osyunge2.fastdfs.test.TestFastDFS)  Time elapsed: 10.259 sec  <<< ERROR!
 org.csource.common.MyException: getStoreStorage fail, errno code: 0
 	at org.csource.fastdfs.StorageClient.newWritableStorageConnection(StorageClient.java:1941)
 	at org.csource.fastdfs.StorageClient.do_upload_file(StorageClient.java:703)
@@ -40,7 +40,7 @@ org.csource.common.MyException: getStoreStorage fail, errno code: 0
 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
 
-test(com.osyunge2.fastdfs.test.TestFastDFS)  Time elapsed: 10.018 sec  <<< ERROR!
+test(com.osyunge2.fastdfs.test.TestFastDFS)  Time elapsed: 10.014 sec  <<< ERROR!
 org.csource.common.MyException: getStoreStorage fail, errno code: 0
 	at org.csource.fastdfs.StorageClient.newWritableStorageConnection(StorageClient.java:1941)
 	at org.csource.fastdfs.StorageClient.do_upload_file(StorageClient.java:703)
